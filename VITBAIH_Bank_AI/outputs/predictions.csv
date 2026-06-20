@@ -1,0 +1,6 @@
+customer_id,prediction,probability,confidence,age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed
+CUST_001,YES,0.9708,0.9415,45,management,married,university.degree,no,no,no,cellular,oct,mon,520,1,3,2,success,-1.8,93.2,-36.4,0.9,5099.1
+CUST_002,YES,0.9223,0.8445,67,retired,single,basic.9y,no,no,no,cellular,nov,wed,410,1,999,0,nonexistent,-2.9,92.8,-38.3,1.1,5017.5
+CUST_003,NO,0.0,0.9999,38,blue-collar,married,basic.4y,no,yes,yes,telephone,may,thu,52,18,999,0,nonexistent,1.4,94.5,-45.1,4.8,5228.1
+CUST_004,NO,0.0001,0.9998,28,services,single,high.school,unknown,yes,no,telephone,may,fri,85,12,999,1,failure,1.1,94.0,-42.7,4.6,5191.0
+CUST_005,NO,0.2975,0.4051,52,admin.,divorced,professional.course,no,no,no,cellular,aug,tue,320,3,999,0,nonexistent,-1.1,93.8,-39.8,1.5,5099.1
